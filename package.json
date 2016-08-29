@@ -1,0 +1,16 @@
+{
+  "name": "animals",
+  "version": "0.0.0",
+  "description": "A game where the computer tries to guess the animal you're thinking of!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathan Glezer",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.3",
+    "mysql": "^2.11.1",
+    "mysql2": "^1.0.0-rc.11"
+  }
+}
